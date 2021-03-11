@@ -1,24 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docs on Gotop Chuang 莊向峰</title><link>https://gotopchuang.github.io/docs/</link><description>Recent content in Docs on Gotop Chuang 莊向峰</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><atom:link href="https://gotopchuang.github.io/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://gotopchuang.github.io/docs/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gotopchuang.github.io/docs/about/</guid><description>About
-#
-莊向峰，1994年生於台灣，主修計算機科學及資訊網路與多媒體,身兼藝術家及AI研究員的身份。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Gotop Chuang 莊向峰</title>
+    <link>https://gotopchuang.github.io/docs/</link>
+    <description>Recent content in Docs on Gotop Chuang 莊向峰</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language><atom:link href="https://gotopchuang.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://gotopchuang.github.io/docs/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gotopchuang.github.io/docs/about/</guid>
+      <description>About#   莊向峰，1994年生於台灣，主修計算機科學及資訊網路與多媒體,身兼藝術家及AI研究員的身份。
 曾獲得2018台北國際攝影節新銳獎評審團特別獎。
 以攝影為主，跨足錄像、裝置等媒材，創作主要討論數位化時代影像的「傳播機制」、「載體」
 對影像觀念的轉化及對人類之間的互動關係與影響，
-從技術運作原理出發，與哲學及社會做出連結。</description></item><item><title>CV</title><link>https://gotopchuang.github.io/docs/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gotopchuang.github.io/docs/cv/</guid><description>CV
-#
-莊向峰
-1994生於台灣 學歷
-#
-2012-2016 國立清華大學，資訊工程學系，學士
+從技術運作原理出發，與哲學及社會做出連結。</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://gotopchuang.github.io/docs/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gotopchuang.github.io/docs/cv/</guid>
+      <description>CV# 莊向峰
+1994生於台灣 學歷#2012-2016 國立清華大學，資訊工程學系，學士
 2016-2016 國立臺北藝術大學，新媒體藝術學系，交換學生
 2016-2018 國立台灣大學，資訊網路與多媒體研究所，碩士
-獲獎
-#
-2018 台北國際攝影節新銳獎，評審特別獎
+獲獎#2018 台北國際攝影節新銳獎，評審特別獎
 2018 Wonder Foto Day台北國際攝影藝術交流展，入選
-展覽
-#
-2020 綠豆、編織、Inter net，Sculptor Barber，台北，台灣
+展覽#2020 綠豆、編織、Inter net，Sculptor Barber，台北，台灣
 2020 無所適室 non-non-place，空總台灣當代文化實驗場，台北，台灣
 2019 2018台北國際攝影節新銳獎徵件展，中正紀念堂，台北，台灣
 2019 Wonder Foto Day，台北國際攝影藝術交流展，松山菸廠，台北，台灣
@@ -26,10 +39,19 @@
 2016 人 人 人 人 ，國立臺北藝術大學攝影社影像聯展，台北，台灣
 2015 窗口 聯展，清華大學，新竹，台灣
 2014 下一位，清大攝影社年度展，清華大學，新竹，台灣
-其他經歷
-#
-2021 與陽春麵研究舍獲得 文化部創作補助 -「日出」錄像裝置創作計畫
-2019 國立臺灣大學多媒體資訊檢索實驗室，研究助理</description></item><item><title>Contact</title><link>https://gotopchuang.github.io/docs/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gotopchuang.github.io/docs/contact/</guid><description>Contact
-#
-Email : gotop0728@gmail.com
-Facebook : Link</description></item></channel></rss>
+其他經歷#2021 與陽春麵研究舍獲得 文化部創作補助 -「日出」錄像裝置創作計畫
+2019 國立臺灣大學多媒體資訊檢索實驗室，研究助理</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://gotopchuang.github.io/docs/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gotopchuang.github.io/docs/contact/</guid>
+      <description>Contact# Email : gotop0728@gmail.com
+Facebook : Link</description>
+    </item>
+    
+  </channel>
+</rss>
